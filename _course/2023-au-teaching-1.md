@@ -1,9 +1,9 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "course experience 1"
+collection: course
 type: "Undergraduate course"
-permalink: /teaching/2023-au-teaching-1
-venue: "University 1, Department"
+permalink: /course/2023-au-teaching-1
+venue: "ustc"
 date: 2023-09-05
 location: "安徽合肥"
 ---
