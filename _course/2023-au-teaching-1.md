@@ -2,7 +2,7 @@
 title: "course experience 1"
 collection: course
 type: "Undergraduate course"
-permalink: /course/2023-au-teaching-1
+permalink: /_course/2023-au-teaching-1
 venue: "ustc"
 date: 2023-09-05
 location: "安徽合肥"
